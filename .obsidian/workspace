@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5e2e8d653ec6be6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d66cc9d1325def",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Services/TCP/TCP3306 - MySQL/TCP3306 - MySQL.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f26e45b24aeeb5cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a3b6ef71434a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd665c4bb9ab661d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f492bfad56a21d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "suid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "910cbe88c14c4aa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a8c6a9a47d39c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c8bd713fa47d18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Services/TCP/TCP3306 - MySQL/TCP3306 - MySQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61d66cc9d1325def",
+  "lastOpenFiles": [
+    "Services/TCP/TCP80 - WebServices/PHP/Wrappers.md",
+    "Vulnerabilities/Info Leaks/Web/git folder.md",
+    "Vulnerabilities/Privilege Escalation/Linux/Writable Docker Socket.md",
+    "AttackPack.md",
+    "Vulnerabilities/Privilege Escalation/Linux/Root-run cronjob.md",
+    "Vulnerabilities/Privilege Escalation/Linux/Linux.md",
+    "Vulnerabilities/Privilege Escalation/Linux/Root-run processes.md",
+    "Tools/Scanners/Tplmap.md",
+    "Services/UDP/UDP623 - BMC-IPMI.md",
+    "Vulnerabilities/Web/Login Bypass/Cookie Hijacking.md"
+  ]
+}
