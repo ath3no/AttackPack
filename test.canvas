@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"1f45b97551de5413","x":-366,"y":-267,"width":250,"height":67,"type":"text","text":"its interesting"},
-		{"id":"b417b5327656d97e","x":134,"y":-433,"width":400,"height":400,"type":"file","file":"Vulnerabilities/Privilege Escalation/Windows/Windows.md"}
-	],
-	"edges":[
-		{"id":"d4cd5a8148a61532","fromNode":"1f45b97551de5413","fromSide":"right","toNode":"b417b5327656d97e","toSide":"left"}
-	]
-}
