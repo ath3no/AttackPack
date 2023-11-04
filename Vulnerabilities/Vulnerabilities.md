@@ -1,0 +1,5 @@
+[[Privilege Escalation]]
+[[Info Leaks]]
+[[Vulnerabilities/Web/Web]]
+[[Bypasses]]
+[[Code Execution]]

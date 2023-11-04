@@ -1,0 +1,8 @@
+[[Nmap]]
+[[Legion]]
+[[Gobuster]]
+[[PEASS]]
+[[PSpy]]
+[[DotDotPwn]]
+[[Tplmap]]
+[[Kerbrute]]
