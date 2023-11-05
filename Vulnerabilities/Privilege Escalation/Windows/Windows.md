@@ -1,1 +1,2 @@
-[TryHackMe](https://tryhackme.com/room/windows10privesc)
+[[TryHackMe Aggregate]]
+[[Certificate Authority Abuses]]
