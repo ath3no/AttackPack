@@ -2,3 +2,4 @@
 [[Root-run processes]]
 [[Writable Docker Socket]]
 [[Root-run cronjob]]
+[[Wildcard Exploitation]]
